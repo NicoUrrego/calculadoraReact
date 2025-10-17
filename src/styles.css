@@ -14,7 +14,8 @@ font-family: sans-serif;
 .Calculadora {
   color: rgb(41, 36, 36);
   background-color: rgb(180, 176, 179);
-  margin: 400px;
+  border-radius: 10px;
+  margin: 500px;
   margin-top: 10px;
   padding: 20px
 }

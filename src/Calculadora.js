@@ -64,7 +64,7 @@ const Calculadora = () => {
       <Button onClick={() => importNumber(0)}>0</Button>
       <Button onClick={() => operar("*")}>*</Button>
       <Button onClick={() => operar("/")}>/</Button>
-      <Button onClick={limpiar}>C</Button>
+      <div className="Boton-C"><Button onClick={limpiar}>C</Button></div>
       <br />
     </div>
   );

@@ -49,7 +49,7 @@ const Calculadora = () => {
       <Button onClick={() => importNumber(1)}>1</Button>
       <Button onClick={() => importNumber(2)}>2</Button>
       <Button onClick={() => importNumber(3)}>3</Button>
-      <Button onClick={resultados("=")}>=</Button>
+      <Button onClick={resultados}>=</Button>
       <br />
       <Button onClick={() => importNumber(4)}>4</Button>
       <Button onClick={() => importNumber(5)}>5</Button>

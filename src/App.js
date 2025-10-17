@@ -1,4 +1,3 @@
-import './App.css';
 import "./styles.css";
 import Contador from "./Calculadora";
 

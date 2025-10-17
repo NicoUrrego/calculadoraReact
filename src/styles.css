@@ -1,3 +1,9 @@
+body {
+font-family: sans-serif;
+  color: white;
+  text-align: center;
+  background-color: rgb(82, 75, 75);
+}
 .App {
   font-family: sans-serif;
   color: white;

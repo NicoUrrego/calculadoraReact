@@ -8,7 +8,8 @@
 .Calculadora {
   color: rgb(41, 36, 36);
   background-color: rgb(180, 176, 179);
-  margin: 10%;
+  margin: 20%;
+  margin-top: 10%;
 }
 
 button {
